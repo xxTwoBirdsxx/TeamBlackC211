@@ -18,7 +18,10 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-
+/**
+ * The controller class for the Team Black card Game simulator GUI
+ * @author TEAM BLACK, Jackson W.
+ */
 public class FXMLDocumentController implements Initializable {
 //get our objects created
 

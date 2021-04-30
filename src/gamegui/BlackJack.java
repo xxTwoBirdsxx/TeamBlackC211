@@ -1,5 +1,8 @@
 package gamegui;
-
+/**
+ * A class for simulating a game of Black Jack.
+ * @author TEAM BLACK, Blake J.
+ */
 public class BlackJack {
 
     public static Deck D;

@@ -2,9 +2,12 @@
 package gamegui;
 
 import java.io.Serializable;
+/**
+ * A class for keeping score during and between game sessions
+ * @author TEAMBLACK, Jinhyuk L.
+ */
 
-
-public class ScoreBoard  implements Serializable {// sso we can use it to keep a record of our scores
+public class ScoreBoard  implements Serializable {// so we can use it to keep a record of our scores
 
     private  int warPlayer; 
      int dealer;

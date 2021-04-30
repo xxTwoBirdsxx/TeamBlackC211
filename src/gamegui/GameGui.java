@@ -6,7 +6,10 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
+/**
+ * The GUI main class for the Team black card game simulator
+ * @author TEAM BLACK, Jackson W.
+ */
 public class GameGui extends Application {
     
     @Override

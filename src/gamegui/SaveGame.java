@@ -2,6 +2,10 @@
 package gamegui;
 
   import java.io.*;
+/**
+ * A class for storing and retrieving game session scores
+ * @author TEAM BLACK, Jinhyuk L.
+ */
 public class SaveGame {
   final String FILENAME = "Score_Board.dat";
 File f = new File(FILENAME);

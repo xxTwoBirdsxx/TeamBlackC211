@@ -1,7 +1,10 @@
 package gamegui;
 
 import java.util.ArrayList;
-
+/**
+ * A class for simulating the WAR! cardgame
+ * @author TEAM BLACK , Zachary C.
+ */
 public class War {
 
     static double player = 0;

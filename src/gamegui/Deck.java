@@ -1,6 +1,9 @@
 package gamegui;
 
-
+/**
+ * A class for creating a deck of "cards"
+ * @author TEAM BLACK, Dalton B.
+ */
 public class Deck {
 String[] theDeck;
     String[] Suits = {
